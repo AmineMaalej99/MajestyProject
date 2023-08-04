@@ -68,7 +68,7 @@ class Home extends StatelessWidget {
                 _logout(context);
               },
               style: ElevatedButton.styleFrom(primary: Colors.black),
-              child: Text('Log Out', style: TextStyle(fontSize: 16)),
+              child: Text('Log Out', style: TextStyle(fontSize: 17)),
             ),
           ],
         ),
